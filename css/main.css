@@ -80,3 +80,8 @@ a {
     width: 50%;
     height: auto;
 }
+
+.heroabout {
+    align-items: center;
+    display: flex;
+}
